@@ -1,4 +1,4 @@
 global_configs
 ==============
 
-Config files - keep in sync
+Linux OS X configuration files for vim, bash, sublime, screen, etc. 
